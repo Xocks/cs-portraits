@@ -4418,3 +4418,22 @@ button.ranking-row:hover {
   background: var(--ink);
   color: var(--bg);
 }
+
+/* Photographs keep their full crop; the detail panel never magnifies to fill. */
+.detail-image { display: flex; align-items: center; justify-content: center; padding: 54px 24px 92px; }
+.detail-image img { object-fit: contain; max-height: 100%; background: transparent; }
+.detail-photo { background: #20261f; }
+.detail-photo-info > strong { font-size: 18px; letter-spacing: 0; }
+.photo-grouping { display: flex; gap: 6px; margin: 12px 0; }
+.photo-grouping button { padding: 8px 13px; border: 1px solid var(--line); border-radius: 7px; color: var(--muted); background: transparent; font: inherit; font-size: 12px; cursor: pointer; }
+.photo-grouping button.active { color: var(--ink); background: var(--surface); border-color: var(--sage); }
+.photo-years { flex-wrap: wrap; gap: 7px; margin: 12px 0; }
+.photo-years button { display: inline-flex; align-items: center; gap: 7px; }
+.photo-years small { font-size: 9px; opacity: .65; }
+.timeline { overflow-x: auto; padding-bottom: 8px; }
+.timeline > button { min-width: 90px; }
+.timeline button > span { white-space: normal; }
+.photo-date-note { font-size: 11px; color: var(--muted); line-height: 1.7; margin: 10px 0; }
+.candidate-row { flex-wrap: wrap; }
+@media(max-width: 760px) { .detail-image { padding: 30px 35px 66px; } .detail-photo-info > strong { font-size: 15px; } }
+.card-portrait > img.portrait-full-frame, .candidate-row img.portrait-full-frame { object-fit: contain; background: var(--surface); }

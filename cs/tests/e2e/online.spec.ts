@@ -13,14 +13,14 @@ const singleURL = pathToFileURL(
 ).href;
 async function ready(page: Page, url = offlineURL) {
   await page.goto(url);
-  await expect(page.getByRole("heading", { name: /赛场之外/ })).toBeVisible();
+  await expect(page.getByRole("heading", { name: /名字之外/ })).toBeVisible();
   await expect(page.locator(".save-status")).toContainText("已自动保存");
 }
 test("dated event album filters, full photographs and player links; mobile dialog", async ({
   page,
 }) => {
   await ready(page);
-  await expect(page).toHaveTitle(/准星之外/);
+  await expect(page).toHaveTitle(/CS 选手图鉴/);
   await page.getByRole("button", { name: "赛事相册", exact: true }).click();
   await expect(page.locator(".album-card")).toHaveCount(24);
   await page.getByLabel("相册按来源筛选").selectOption("HLTV");
@@ -111,7 +111,7 @@ test("new Chinese player photographs retain distinct sourced years and can be se
   for(const year of [2023,2025,2026]) {
     await dialog.getByRole("button",{name:String(year),exact:true}).click();
     await expect(dialog.locator(".detail-photo-info")).toContainText(String(year));
-    await expect(dialog.locator(".detail-photo-info")).toContainText("赛事年份已记录");
+    await expect(dialog.locator(".detail-photo-info")).not.toContainText("人物身份已核对");
   }
   await dialog.getByRole("button",{name:"2023",exact:true}).click();
   await dialog.locator(".representative-button").click();
@@ -120,7 +120,28 @@ test("new Chinese player photographs retain distinct sourced years and can be se
   await page.keyboard.press("Escape");
   await page.reload();
   await find(page,"Moseyuh");
-  await expect(page.locator(".card-portrait img")).toHaveAttribute("src",/hltv-gallery-183622-card.webp/);
+  await expect(page.locator(".card-portrait img")).toHaveAttribute("src",/hltv-gallery-183622.*-card.webp/);
+});
+test("year navigation includes all photographs in chronological order and separates age browsing", async ({page}) => {
+  await ready(page);
+  await expect(page.getByRole("button", {name: "CS 选手图鉴首页"})).toBeVisible();
+  const card = await find(page, "ZywOo");
+  await card.getByRole("button", {name: /查看 .* 的照片与时期/}).click();
+  const dialog = page.getByRole("dialog");
+  const years = await dialog.locator(".photo-years button").allTextContents();
+  const numeric = years.filter(x => /^20/.test(x)).map(x => Number(x.slice(0,4)));
+  expect(numeric).toEqual([...new Set(numeric)].sort((a,b) => a-b));
+  expect(years.at(-1)).toContain("年份未知");
+  for (const year of numeric) {
+    await dialog.locator(".photo-years button").filter({hasText: String(year)}).click();
+    await expect(dialog.locator(".candidate-row button")).toHaveCount(catalogue.photos.filter((p:any) => p.playerId === "hltv-11893" && p.year === year).length);
+  }
+  await expect(dialog.locator(".detail-image img")).toHaveCount(1);
+  await expect(dialog.locator(".detail-image img")).toHaveCSS("object-fit", "contain");
+  await dialog.getByRole("button", {name: "按年龄时期",exact:true}).click();
+  await expect(dialog.locator(".timeline")).toBeVisible();
+  await expect(dialog.locator(".timeline")).not.toContainText("出道期");
+  await expect(dialog.locator(".timeline")).not.toContainText("年份与头像");
 });
 async function find(page: Page, nick: string) {
   await page
@@ -170,6 +191,7 @@ test("overall and period scores persist independently; representative photo pers
     .click();
   await dialog.getByRole("button", { name: "分时期评分", exact: true }).click();
   await dialog.locator(".stars.large button").nth(2).click();
+  await dialog.getByRole("button", { name: "按年龄时期", exact: true }).click();
   const timeline = dialog.locator(".timeline button");
   if ((await timeline.count()) > 1) await timeline.last().click();
   const next = dialog.getByRole("button", { name: "下一张照片" });
@@ -267,13 +289,13 @@ test("filter by real name, stable ID, country, rank, team; blind mode hides iden
   page,
 }) => {
   await ready(page);
-  await page.getByLabel("仅显示有可靠照片的选手").uncheck();
+  await page.getByLabel("仅显示有照片的选手").uncheck();
   await find(page, "Mathieu Herbaut");
   await find(page, "19230");
   await page
     .getByRole("textbox", { name: "搜索选手 ID、真实姓名或队伍" })
     .fill("");
-  await page.getByRole("button", { name: "中国力量" }).click();
+  await page.getByRole("button", { name: "中国选手" }).click();
   await expect(page.locator(".player-card")).toHaveCount(21);
   await page.getByRole("button", { name: "全部选手", exact: true }).click();
   await page
@@ -305,7 +327,7 @@ test("ranking excludes missing scores; team average uses rated members only", as
   page,
 }) => {
   await ready(page);
-  await page.getByLabel("仅显示有可靠照片的选手").uncheck();
+  await page.getByLabel("仅显示有照片的选手").uncheck();
   for (const [nick, score] of [
     ["ZywOo", 5],
     ["apEX", 3],

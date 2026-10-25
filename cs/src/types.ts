@@ -48,6 +48,10 @@ export interface PlayerPhoto {
   datePrecision: "day" | "year" | "unknown";
   dateNote?: string;
   age: number | null;
+  framing?: "full-frame" | "portrait";
+  ageRange?: [number, number];
+  periodBasis?: "year-range";
+  periodEvidence?: string;
   period: PeriodKey;
   teamAtTime: string | null;
   sourceUrl: string;

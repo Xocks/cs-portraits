@@ -66,8 +66,8 @@ export function Rankings({
       <div className="page-heading">
         <div>
           <span className="eyebrow">YOUR OWN HALL OF FAME</span>
-          <h1>每一次心动，都算数。</h1>
-          <p>这些排名，只代表你的审美。未评分的选手不会计入均分。</p>
+          <h1>我的评分榜单</h1>
+          <p>按你的评分排序；未评分的选手不计入均分。</p>
         </div>
         <div className="round-icon">
           <BarChart3 size={28} />

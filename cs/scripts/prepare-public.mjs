@@ -40,6 +40,9 @@ for (const name of [
   "data-audit.json",
   "相册扩充与批量采集.md",
   "赛事相册清单.csv",
+  "Top20逐年照片覆盖.csv",
+  "Top20照片补充进展.md",
+  "top20-photo-coverage.json",
 ])
   if (fs.existsSync("docs/" + name))
     fs.copyFileSync("docs/" + name, "public/" + name);

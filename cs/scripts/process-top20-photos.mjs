@@ -1,0 +1,15 @@
+import fs from 'node:fs';import sharp from 'sharp';import crypto from 'node:crypto';
+const read=(p,f=[])=>fs.existsSync(p)?JSON.parse(fs.readFileSync(p)):f;const d=read('src/data/catalogue.json');const review=read('research/top20-photo-review.json',{approved:[]});
+const rows=[...read('research/top20-photo-candidates.json'),...read('research/top20-scan-candidates.json')];const seen=new Set(d.photos.filter(p=>!p.id.startsWith('hltv-top20-')).map(p=>p.originalSha1));const out=[],excluded=[];
+for(const c of rows){const sourceId=Number(c.sourceUrl.split('/').at(-1));if(!review.approved.includes(sourceId)||!c.downloaded||!c.singleSubject||c.faces?.length!==1)continue;
+ const p=d.players.find(p=>p.id===c.playerId);if(!p||c.players[0].id!==p.hltvId)throw Error('Invalid subject');
+ const raw=fs.readFileSync(c.rawPath),sha1=crypto.createHash('sha1').update(raw).digest('hex');if(seen.has(sha1))continue;seen.add(sha1);
+ const m=await sharp(raw).metadata(),f=c.faces[0];const fh=f.height*m.height,fw=f.width*m.width,fx=f.x*m.width,fy=f.y*m.height;
+ const keepFullFrame=fw<60||fh<70;if(keepFullFrame)excluded.push({sourceId,reason:'面部较小，保留原始构图而非放大裁脸',fw,fh,preserved:true});
+ let h=Math.min(m.height,fh*2.85),w=h*.8;if(w>m.width){w=m.width;h=w/.8;}const crop={left:Math.round(Math.max(0,Math.min(m.width-w,fx+fw/2-w/2))),top:Math.round(Math.max(0,Math.min(m.height-h,fy-fh*.55))),width:Math.floor(w),height:Math.floor(h)};
+ const id='hltv-top20-'+sourceId,base='photos/'+id;
+ for(const [size,width,quality] of [['large',keepFullFrame?1000:800,87],['card',400,82]]){let image=sharp(raw);if(!keepFullFrame)image=image.extract(crop);await image.resize({width,withoutEnlargement:true}).webp({quality,effort:5}).toFile('public/'+base+'-'+size+'.webp');}
+ const meta=await sharp('public/'+base+'-large.webp').metadata();
+ out.push({id,playerId:p.id,year:c.year,capturedAt:null,datePrecision:'year',dateNote:'年份来自 HLTV 赛事图库标题：'+c.event+'；年份依据 '+c.yearEvidence+'。未推断精确拍摄日。',age:null,period:'undated',teamAtTime:null,sourceUrl:c.sourceUrl,originalUrl:c.image,framing:keepFullFrame?'full-frame':'portrait',title:p.nickname+' · '+c.event,photographer:c.photographer||'HLTV / 摄影者未标注',license:'保留版权；使用权限由项目所有者声明',licenseUrl:'https://www.hltv.org/terms',licenseStatus:'user-declared',sourcePlatform:'HLTV',sourceCheckedAt:c.checkedAt?.slice(0,10)||'2026-10-23',identityVerified:true,identityEvidence:`由 #${p.hltvId} ${p.nickname} 个人图库定位；图片页仅标注该选手；来源人物 ID、单一主体及官方档案参考在本地人工审核界面并列展示，照片已通过审核。`,reviewStatus:'reviewed',localPath:base+'-large.webp',cardPath:base+'-card.webp',isDefault:false,sha256:crypto.createHash('sha256').update(fs.readFileSync('public/'+base+'-large.webp')).digest('hex'),width:meta.width,height:meta.height,alterations:keepFullFrame?'保留原始画面，仅缩放和 WebP 转换；人物较小，不作紧裁切或放大。':'保留完整头部及肩部的宽松人像裁切；仅裁切、缩放和 WebP 转换。裁切框 '+JSON.stringify(crop),originalSha1:sha1});
+}
+fs.writeFileSync('research/top20-approved-portraits.json',JSON.stringify(out,null,2));fs.writeFileSync('research/top20-quality-exclusions.json',JSON.stringify(excluded,null,2));console.log({approved:out.length,preservedFullFrames:excluded.length});

@@ -6,7 +6,8 @@ const photos=[...d.photos,...(d.album||[])];
 const expected=new Set(photos.flatMap(p=>[p.localPath,p.cardPath]));
 const manifest=JSON.parse(fs.readFileSync('asset-bundles.json','utf8'));
 const declared=manifest.bundles.flatMap(b=>b.files);
-if(declared.length!==expected.size||new Set(declared).size!==expected.size||declared.some(f=>!expected.has(f)))throw Error('Asset manifest does not match catalogue');
+// Older bundles retain prior crops for reproducibility; only catalogue references are published.
+if(new Set(declared).size!==declared.length||[...expected].some(f=>!declared.includes(f))||declared.some(f=>!/^photos\/[A-Za-z0-9._-]+\.webp$/.test(f)))throw Error('Asset manifest does not cover catalogue safely');
 for(const bundle of manifest.bundles){
  if(bundle.files.every(f=>fs.existsSync('public/'+f)))continue;
  const archive=fs.existsSync(bundle.archive)?bundle.archive:'../'+bundle.archive;

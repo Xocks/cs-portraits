@@ -1,4 +1,4 @@
-# 准星之外 CS PORTRAITS · CS 在线版
+# CS 选手图鉴 · CS 在线版
 
 React + TypeScript + Vite 静态网站。当前优先在线版本；单机版与离线打包已按用户要求暂停，F1 未更改。
 
@@ -16,7 +16,7 @@ npm run build:web
 npm run test:web
 ```
 
-`npm run build` 等同于 `build:web`，输出 `dist/` 和 `delivery/准星之外-网站部署包.zip`，不生成或更新旧离线文件。构建不联网采集素材。
+`npm run build` 等同于 `build:web`，输出 `dist/` 和 `delivery/CS选手图鉴-网站部署包.zip`，不生成或更新旧离线文件。构建不联网采集素材。
 
 网站可部署到根目录或 GitHub Pages 的仓库子路径。仓库根目录 `.github/workflows/pages.yml` 已准备自动构建配置；已发布至 https://xocks.github.io/cs-portraits/ 。详见 [GitHub 免费部署研究](docs/GitHub免费部署研究.md)。
 
@@ -43,3 +43,5 @@ HLTV 头像若没有可靠拍摄日期，日期和年龄留空；资料页采集
 原始下载、未审核参考图、旧离线成品、node_modules 等已列入忽略项。只把正式照片和数据随网站发布。采集模块接受浏览器 Page 与项目路径参数，按 Player ID 和赛事年份建立候选，正式发布必须人工审核；普通网站构建不依赖它们。
 
 代码 MIT，照片保留原版权/各自许可，见 [照片来源与版权状态](docs/照片署名与许可.md)。实际覆盖和测试记录见 [在线版进展](docs/在线版进展.md)。
+
+本地质量审核器：`npm run review:photos`。质量评分文件保存在 research/top20-quality-ratings.json，已忽略，不随网站发布。Top20 逐年覆盖见 docs/Top20照片补充进展.md。

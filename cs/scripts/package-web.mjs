@@ -49,7 +49,7 @@ fs.writeFileSync(
   "/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n/sw.js\n  Cache-Control: no-cache\n",
 );
 fs.mkdirSync("delivery", { recursive: true });
-const output = path.resolve("delivery/准星之外-网站部署包.zip");
+const output = path.resolve("delivery/CS选手图鉴-网站部署包.zip");
 fs.rmSync(output, { force: true });
 execFileSync("/usr/bin/zip", ["-qr", output, "."], {
   cwd: path.resolve("dist"),

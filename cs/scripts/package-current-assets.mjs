@@ -1,0 +1,6 @@
+import fs from 'node:fs';import path from 'node:path';import {execFileSync} from 'node:child_process';
+const d=JSON.parse(fs.readFileSync('src/data/catalogue.json'));const original=JSON.parse(fs.readFileSync('asset-bundles.json'));const baseNames=['photo-assets.zip','album-assets.zip','photo-update-20261023.zip'];const bundles=original.bundles.filter(b=>baseNames.includes(b.archive));
+const expected=[...new Set([...d.photos,...d.album].flatMap(p=>[p.localPath,p.cardPath]))];const existing=new Set(bundles.flatMap(b=>b.files));const files=expected.filter(f=>!existing.has(f));let chunk=[],bytes=0,index=0;
+function pack(){if(!chunk.length)return;const archive=`photo-update-20261025-${String(++index).padStart(2,'0')}.zip`,output=path.resolve('..',archive);fs.rmSync(output,{force:true});execFileSync('/usr/bin/zip',['-q',output,...chunk],{cwd:path.resolve('public')});bundles.push({archive,files:chunk});chunk=[];bytes=0;}
+for(const f of files){const size=fs.statSync('public/'+f).size;if(bytes+size>1600000)pack();chunk.push(f);bytes+=size;}pack();
+fs.writeFileSync('asset-bundles.json',JSON.stringify({bundles},null,2));console.log({newAssets:files.length,bundles:bundles.length,newBundles:index});

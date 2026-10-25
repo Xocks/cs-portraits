@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-10-23T12:26:14.314Z",
-  "version": "1.3.0-web",
+  "generatedAt": "2026-10-25T10:09:19.262Z",
+  "version": "1.4.0-web",
   "snapshotDate": "2026-10-19",
   "players": 230,
-  "photos": 355,
+  "photos": 797,
   "albumPhotos": 224,
   "groupPhotos": 51,
-  "uniqueSourcePhotos": 454,
+  "uniqueSourcePhotos": 896,
   "albumPlayers": 62,
   "playersWithPhotos": 230,
   "chinesePlayersWithPhotos": 21,
-  "hltvPhotos": 283,
+  "hltvPhotos": 725,
   "commonsPhotos": 72,
-  "playersWithMultipleKnownYears": 30,
-  "playersWithMultipleVerifiedAgePeriods": 7,
+  "playersWithMultipleKnownYears": 112,
+  "playersWithMultipleVerifiedAgePeriods": 70,
   "photosWithExactCaptureDate": 54,
   "browserTests": {
-    "passed": 10,
+    "passed": 11,
     "failed": 0
   },
   "offlineDelivery": "paused",
   "repository": "https://github.com/Xocks/cs-portraits",
   "targetSite": "https://xocks.github.io/cs-portraits/",
-  "deploymentVerified": true
+  "deploymentVerified": false
 }

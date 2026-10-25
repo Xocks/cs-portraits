@@ -108,8 +108,8 @@ export function EventAlbum({
       <div className="page-heading album-heading">
         <div>
           <span className="eyebrow">THE MOMENTS BETWEEN ROUNDS</span>
-          <h1>准星之外，记忆之中。</h1>
-          <p>人像、队友与捧杯的瞬间。沿着年份，翻开 CS 的另一面。</p>
+          <h1>赛事相册</h1>
+          <p>按年份查看现场照片、战队合照和赛事记录。</p>
         </div>
         <div className="album-total">
           <strong>{data.album.length}</strong>
@@ -143,7 +143,7 @@ export function EventAlbum({
         </span>
         <span className="album-cover-copy">
           <small>FIVE PLAYERS. ONE MOMENT.</small>
-          <strong>{blind ? "共同的高光。" : "属于他们的夏天。"}</strong>
+          <strong>{blind ? "战队合照" : "Team Liquid · 2019"}</strong>
           <span>
             {blind ? "2019 · 冠军合影" : "Team Liquid · IEM Chicago 2019"}
           </span>

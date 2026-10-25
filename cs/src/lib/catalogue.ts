@@ -5,12 +5,12 @@ export const playersById = new Map(data.players.map((p) => [p.id, p]));
 export const teamsById = new Map(data.teams.map((p) => [p.id, p]));
 export const photosById = new Map(data.photos.map((p) => [p.id, p]));
 export const periods: Record<PeriodKey, { label: string; range: string }> = {
-  debut: { label: "出道期", range: "19 岁及以下" },
-  young: { label: "青年期", range: "20–23 岁" },
-  prime: { label: "成熟期", range: "24–27 岁" },
-  veteran: { label: "后期", range: "28–31 岁" },
-  legend: { label: "老将期", range: "32 岁及以上" },
-  undated: { label: "年份与头像", range: "仅有年份或未公开日期，不推算年龄" },
+  debut: { label: "19 岁及以下", range: "19 岁及以下" },
+  young: { label: "20–23 岁", range: "20–23 岁" },
+  prime: { label: "24–27 岁", range: "24–27 岁" },
+  veteran: { label: "28–31 岁", range: "28–31 岁" },
+  legend: { label: "32 岁及以上", range: "32 岁及以上" },
+  undated: { label: "年龄未核实", range: "仅有年份或未公开日期，不推算年龄" },
 };
 export const periodOrder: PeriodKey[] = [
   "debut",
@@ -29,15 +29,14 @@ export function playerPhotos(p: Player) {
     );
 }
 export function representative(p: Player, selected: Record<string, string>) {
-  const ph = photosById.get(selected[p.id]);
-  return ph?.playerId === p.id
-    ? ph
-    : playerPhotos(p).find((p) => p.isPrimary) ||
-        playerPhotos(p)
-          .filter((p) => p.isDefault)
-          .sort((a, b) => (b.year ?? 0) - (a.year ?? 0))[0] ||
-        playerPhotos(p).at(-1);
+  const chosen = photosById.get(selected[p.id]);
+  if (chosen?.playerId === p.id) return chosen;
+  const all = playerPhotos(p);
+  const portraits = all.filter(ph => ph.framing !== "full-frame");
+  const latestDefault = (photos: PlayerPhoto[]) => photos.filter(ph => ph.isDefault).sort((a,b) => (b.year ?? 0) - (a.year ?? 0))[0];
+  return portraits.find(ph => ph.isPrimary) || latestDefault(portraits) || portraits.at(-1) || latestDefault(all) || all.at(-1);
 }
+
 declare global {
   interface Window {
     __OFFLINE_IMAGES__?: Record<string, string>;

@@ -20,3 +20,5 @@ public/data-audit.json
 public/缺图选手.json
 scripts/detect-faces
 .DS_Store
+research/top20-quality-ratings.json
+research/top20-quality-ratings.json.*.tmp

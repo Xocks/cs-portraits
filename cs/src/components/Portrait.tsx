@@ -17,6 +17,7 @@ export function Portrait({
   return photo && !broken ? (
     <img
       src={asset(large ? photo.localPath : photo.cardPath)}
+      className={photo.framing === "full-frame" ? "portrait-full-frame" : undefined}
       alt={alt}
       loading={eager ? "eager" : "lazy"}
       decoding="async"

@@ -1,0 +1,6544 @@
+{
+  "generatedAt": "2026-10-25T10:02:08.764Z",
+  "scope": "2026-10-19 HLTV Top20 阵容快照的 100 位首发；以已观察到的首末赛事年份为范围，非宣称已核实职业生涯起止时间。",
+  "minimumPerYear": 1,
+  "preferredPerYear": 2,
+  "players": 100,
+  "playersWithDatedPhotos": 100,
+  "playersWithAllTargetYears": 54,
+  "targetPlayerYears": 592,
+  "coveredPlayerYears": 493,
+  "playerYearsWithTwoPhotos": 8,
+  "missingPlayerYears": 99,
+  "targetMet": false,
+  "details": [
+    {
+      "playerId": "hltv-16920",
+      "nickname": "sh1ro",
+      "team": "Spirit",
+      "rank": 1,
+      "firstObservedYear": 2019,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 10,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 6,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-18317",
+      "nickname": "magixx",
+      "team": "Spirit",
+      "rank": 1,
+      "firstObservedYear": 2021,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 7,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 7,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 7,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 13,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2026,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "已检查候选，尚待可用照片"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-19808",
+      "nickname": "tN1R",
+      "team": "Spirit",
+      "rank": 1,
+      "firstObservedYear": 2023,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 14,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-20423",
+      "nickname": "zont1x",
+      "team": "Spirit",
+      "rank": 1,
+      "firstObservedYear": 2023,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 15,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 2,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-21167",
+      "nickname": "donk",
+      "team": "Spirit",
+      "rank": 1,
+      "firstObservedYear": 2023,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2023,
+          "photos": 2,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "2+ 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 2,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "2+ 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-7322",
+      "nickname": "apEX",
+      "team": "Vitality",
+      "rank": 2,
+      "firstObservedYear": 2013,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2013,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2014,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 8,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2015,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2016,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2017,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 6,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 15,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 7,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 11,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-11816",
+      "nickname": "ropz",
+      "team": "Vitality",
+      "rank": 2,
+      "firstObservedYear": 2017,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2017,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 6,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 4,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "2+ 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 11,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 9,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-11893",
+      "nickname": "ZywOo",
+      "team": "Vitality",
+      "rank": 2,
+      "firstObservedYear": 2017,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2017,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2018,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2019,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2022,
+          "photos": 2,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "2+ 张"
+        },
+        {
+          "year": 2023,
+          "photos": 2,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "2+ 张"
+        },
+        {
+          "year": 2024,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2026,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "已检查候选，尚待可用照片"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-16693",
+      "nickname": "flameZ",
+      "team": "Vitality",
+      "rank": 2,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 20,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 40,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-18462",
+      "nickname": "mezii",
+      "team": "Vitality",
+      "rank": 2,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 32,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 7,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-2023",
+      "nickname": "FalleN",
+      "team": "FURIA",
+      "rank": 3,
+      "firstObservedYear": 2009,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2009,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2010,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2011,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2012,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2013,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2014,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2015,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2016,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2017,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 2,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "2+ 张"
+        },
+        {
+          "year": 2020,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 6,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 11,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 14,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 9,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-12553",
+      "nickname": "yuurih",
+      "team": "FURIA",
+      "rank": 3,
+      "firstObservedYear": 2019,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 11,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 7,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 8,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-13915",
+      "nickname": "YEKINDAR",
+      "team": "FURIA",
+      "rank": 3,
+      "firstObservedYear": 2021,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2021,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 7,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 8,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-15631",
+      "nickname": "KSCERATO",
+      "team": "FURIA",
+      "rank": 3,
+      "firstObservedYear": 2019,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 6,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 7,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 6,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-24144",
+      "nickname": "molodoy",
+      "team": "FURIA",
+      "rank": 3,
+      "firstObservedYear": 2025,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 6,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 1,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-18072",
+      "nickname": "torzsi",
+      "team": "MOUZ",
+      "rank": 4,
+      "firstObservedYear": 2019,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2021,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 8,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 6,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-18221",
+      "nickname": "Spinx",
+      "team": "MOUZ",
+      "rank": 4,
+      "firstObservedYear": 2021,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 11,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 14,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 9,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 6,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-20312",
+      "nickname": "xertioN",
+      "team": "MOUZ",
+      "rank": 4,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 6,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-22279",
+      "nickname": "PR",
+      "team": "MOUZ",
+      "rank": 4,
+      "firstObservedYear": 2025,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 2,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-24457",
+      "nickname": "xelex",
+      "team": "MOUZ",
+      "rank": 4,
+      "firstObservedYear": 2025,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 1,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-7938",
+      "nickname": "XANTARES",
+      "team": "Aurora",
+      "rank": 5,
+      "firstObservedYear": 2015,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2015,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2016,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2017,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 12,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 7,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 6,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 11,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-8574",
+      "nickname": "woxic",
+      "team": "Aurora",
+      "rank": 5,
+      "firstObservedYear": 2016,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2016,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2017,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 6,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 8,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-18850",
+      "nickname": "Jimpphat",
+      "team": "Aurora",
+      "rank": 5,
+      "firstObservedYear": 2023,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 10,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-19677",
+      "nickname": "kyxsan",
+      "team": "Aurora",
+      "rank": 5,
+      "firstObservedYear": 2023,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 8,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 11,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 12,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-21243",
+      "nickname": "Wicadia",
+      "team": "Aurora",
+      "rank": 5,
+      "firstObservedYear": 2023,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-429",
+      "nickname": "karrigan",
+      "team": "Falcons",
+      "rank": 6,
+      "firstObservedYear": 2010,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2010,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 8,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2011,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2012,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2013,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2014,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 8,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2015,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2016,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2017,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 12,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 20,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 11,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 15,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-3741",
+      "nickname": "NiKo",
+      "team": "Falcons",
+      "rank": 6,
+      "firstObservedYear": 2011,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2011,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2012,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2013,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2014,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2015,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2016,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2017,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2018,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2019,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2024,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2026,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-12018",
+      "nickname": "TeSeS",
+      "team": "Falcons",
+      "rank": 6,
+      "firstObservedYear": 2018,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 11,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 8,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-19230",
+      "nickname": "m0NESY",
+      "team": "Falcons",
+      "rank": 6,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-24177",
+      "nickname": "kyousuke",
+      "team": "Falcons",
+      "rank": 6,
+      "firstObservedYear": 2024,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-12521",
+      "nickname": "arT",
+      "team": "Legacy",
+      "rank": 7,
+      "firstObservedYear": 2019,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 7,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-15698",
+      "nickname": "dumau",
+      "team": "Legacy",
+      "rank": 7,
+      "firstObservedYear": 2021,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 8,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 6,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-19045",
+      "nickname": "latto",
+      "team": "Legacy",
+      "rank": 7,
+      "firstObservedYear": 2021,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 6,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-19686",
+      "nickname": "n1ssim",
+      "team": "Legacy",
+      "rank": 7,
+      "firstObservedYear": 2023,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-19869",
+      "nickname": "try",
+      "team": "Legacy",
+      "rank": 7,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-3972",
+      "nickname": "huNter-",
+      "team": "G2",
+      "rank": 8,
+      "firstObservedYear": 2017,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2017,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 11,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2023,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 15,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 6,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 8,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-9436",
+      "nickname": "NertZ",
+      "team": "G2",
+      "rank": 8,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-20425",
+      "nickname": "r1nkle",
+      "team": "G2",
+      "rank": 8,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 10,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-20447",
+      "nickname": "HeavyGod",
+      "team": "G2",
+      "rank": 8,
+      "firstObservedYear": 2024,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-21062",
+      "nickname": "MATYS",
+      "team": "G2",
+      "rank": 8,
+      "firstObservedYear": 2021,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-11840",
+      "nickname": "Boombl4",
+      "team": "BETBOOM",
+      "rank": 9,
+      "firstObservedYear": 2017,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2017,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 6,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 11,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 10,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-15662",
+      "nickname": "zorte",
+      "team": "BETBOOM",
+      "rank": 9,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 10,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-18506",
+      "nickname": "S1ren",
+      "team": "BETBOOM",
+      "rank": 9,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-20357",
+      "nickname": "d1Ledez",
+      "team": "BETBOOM",
+      "rank": 9,
+      "firstObservedYear": 2023,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-21667",
+      "nickname": "Magnojez",
+      "team": "BETBOOM",
+      "rank": 9,
+      "firstObservedYear": 2024,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 7,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-19164",
+      "nickname": "SunPayus",
+      "team": "FUT",
+      "rank": 10,
+      "firstObservedYear": 2021,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 6,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-19187",
+      "nickname": "xfl0ud",
+      "team": "FUT",
+      "rank": 10,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-20584",
+      "nickname": "dem0n",
+      "team": "FUT",
+      "rank": 10,
+      "firstObservedYear": 2025,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 2,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-22203",
+      "nickname": "Krabeni",
+      "team": "FUT",
+      "rank": 10,
+      "firstObservedYear": 2025,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 2,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-23553",
+      "nickname": "dziugss",
+      "team": "FUT",
+      "rank": 10,
+      "firstObservedYear": 2024,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 2,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-9816",
+      "nickname": "Aleksib",
+      "team": "Natus Vincere",
+      "rank": 11,
+      "firstObservedYear": 2017,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2017,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 2,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "2+ 张"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 7,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 10,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-14759",
+      "nickname": "iM",
+      "team": "Natus Vincere",
+      "rank": 11,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 14,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-18987",
+      "nickname": "b1t",
+      "team": "Natus Vincere",
+      "rank": 11,
+      "firstObservedYear": 2021,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 6,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-20127",
+      "nickname": "w0nderful",
+      "team": "Natus Vincere",
+      "rank": 11,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-22673",
+      "nickname": "makazze",
+      "team": "Natus Vincere",
+      "rank": 11,
+      "firstObservedYear": 2025,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 1,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-19310",
+      "nickname": "LNZ",
+      "team": "MIBR",
+      "rank": 12,
+      "firstObservedYear": 2019,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2023,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 6,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-19694",
+      "nickname": "nqz",
+      "team": "MIBR",
+      "rank": 12,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 7,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-21037",
+      "nickname": "insani",
+      "team": "MIBR",
+      "rank": 12,
+      "firstObservedYear": 2023,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-21288",
+      "nickname": "venomzera",
+      "team": "MIBR",
+      "rank": 12,
+      "firstObservedYear": 2023,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-22570",
+      "nickname": "tomaszin",
+      "team": "MIBR",
+      "rank": 12,
+      "firstObservedYear": 2024,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-8528",
+      "nickname": "HObbit",
+      "team": "PARIVISION",
+      "rank": 13,
+      "firstObservedYear": 2016,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2016,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2017,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 10,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-12732",
+      "nickname": "FL1T",
+      "team": "PARIVISION",
+      "rank": 13,
+      "firstObservedYear": 2018,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2020,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 7,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-13776",
+      "nickname": "Jame",
+      "team": "PARIVISION",
+      "rank": 13,
+      "firstObservedYear": 2018,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 9,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-22471",
+      "nickname": "xiELO",
+      "team": "PARIVISION",
+      "rank": 13,
+      "firstObservedYear": 2025,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 2,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-23685",
+      "nickname": "zweih",
+      "team": "PARIVISION",
+      "rank": 13,
+      "firstObservedYear": 2024,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-16555",
+      "nickname": "Ax1Le",
+      "team": "1win",
+      "rank": 14,
+      "firstObservedYear": 2019,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 7,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-16921",
+      "nickname": "nafany",
+      "team": "1win",
+      "rank": 14,
+      "firstObservedYear": 2019,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 7,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 7,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-19235",
+      "nickname": "BELCHONOKK",
+      "team": "1win",
+      "rank": 14,
+      "firstObservedYear": 2023,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-20101",
+      "nickname": "fame",
+      "team": "1win",
+      "rank": 14,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 8,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-21348",
+      "nickname": "ArtFr0st",
+      "team": "1win",
+      "rank": 14,
+      "firstObservedYear": 2023,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-12092",
+      "nickname": "max",
+      "team": "9z",
+      "rank": 15,
+      "firstObservedYear": 2019,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2021,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 6,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 6,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-14736",
+      "nickname": "dgt",
+      "team": "9z",
+      "rank": 15,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 6,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-14737",
+      "nickname": "meyern",
+      "team": "9z",
+      "rank": 15,
+      "firstObservedYear": 2019,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 8,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 7,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-20394",
+      "nickname": "luchov",
+      "team": "9z",
+      "rank": 15,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-22613",
+      "nickname": "HUASOPEEK",
+      "team": "9z",
+      "rank": 15,
+      "firstObservedYear": 2024,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-16726",
+      "nickname": "phzy",
+      "team": "Astralis",
+      "rank": 16,
+      "firstObservedYear": 2021,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 8,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-16820",
+      "nickname": "siuhy",
+      "team": "Astralis",
+      "rank": 16,
+      "firstObservedYear": 2021,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 6,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-20304",
+      "nickname": "Staehr",
+      "team": "Astralis",
+      "rank": 16,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 8,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-21217",
+      "nickname": "ryu",
+      "team": "Astralis",
+      "rank": 16,
+      "firstObservedYear": 2024,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 2,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-22674",
+      "nickname": "cmtry",
+      "team": "Astralis",
+      "rank": 16,
+      "firstObservedYear": 2025,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 2,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-9960",
+      "nickname": "frozen",
+      "team": "FaZe",
+      "rank": 17,
+      "firstObservedYear": 2017,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2017,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 12,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 14,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 10,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-10394",
+      "nickname": "Twistzz",
+      "team": "FaZe",
+      "rank": 17,
+      "firstObservedYear": 2016,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2016,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2017,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 4,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "2+ 张"
+        },
+        {
+          "year": 2020,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2021,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2022,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2023,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2024,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        },
+        {
+          "year": 2026,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 0,
+          "status": "待补充"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-21972",
+      "nickname": "Neityu",
+      "team": "FaZe",
+      "rank": 17,
+      "firstObservedYear": 2024,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 16,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 2,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-22383",
+      "nickname": "jcobbb",
+      "team": "FaZe",
+      "rank": 17,
+      "firstObservedYear": 2025,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 19,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 2,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-22866",
+      "nickname": "JBOEN",
+      "team": "FaZe",
+      "rank": 17,
+      "firstObservedYear": 2023,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "已检查候选，尚待可用照片"
+        },
+        {
+          "year": 2025,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 2,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-15370",
+      "nickname": "slaxz-",
+      "team": "M80",
+      "rank": 18,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-16599",
+      "nickname": "Swisher",
+      "team": "M80",
+      "rank": 18,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 15,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-20104",
+      "nickname": "s1n",
+      "team": "M80",
+      "rank": 18,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-21665",
+      "nickname": "JBa",
+      "team": "M80",
+      "rank": 18,
+      "firstObservedYear": 2024,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-22921",
+      "nickname": "Lake",
+      "team": "M80",
+      "rank": 18,
+      "firstObservedYear": 2024,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 6,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-10994",
+      "nickname": "stavn",
+      "team": "Ninjas in Pyjamas",
+      "rank": 19,
+      "firstObservedYear": 2016,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2016,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2017,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2018,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 34,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 10,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-14148",
+      "nickname": "sjuush",
+      "team": "Ninjas in Pyjamas",
+      "rank": 19,
+      "firstObservedYear": 2019,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2019,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 8,
+          "status": "1 张"
+        },
+        {
+          "year": 2020,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2021,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 8,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-19899",
+      "nickname": "Krimbo",
+      "team": "Ninjas in Pyjamas",
+      "rank": 19,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-20878",
+      "nickname": "adamb",
+      "team": "Ninjas in Pyjamas",
+      "rank": 19,
+      "firstObservedYear": 2023,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 6,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-23372",
+      "nickname": "xKacpersky",
+      "team": "Ninjas in Pyjamas",
+      "rank": 19,
+      "firstObservedYear": 2024,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-15072",
+      "nickname": "nin9",
+      "team": "The MongolZ",
+      "rank": 20,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2024,
+          "photos": 0,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": false,
+          "checkedCandidates": 0,
+          "status": "暂无该年来源证据"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 3,
+      "complete": false
+    },
+    {
+      "playerId": "hltv-20194",
+      "nickname": "bLitz",
+      "team": "The MongolZ",
+      "rank": 20,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-20275",
+      "nickname": "Techno",
+      "team": "The MongolZ",
+      "rank": 20,
+      "firstObservedYear": 2022,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2022,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 2,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 5,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-21809",
+      "nickname": "910",
+      "team": "The MongolZ",
+      "rank": 20,
+      "firstObservedYear": 2023,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2023,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 9,
+          "status": "1 张"
+        },
+        {
+          "year": 2024,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 4,
+          "status": "1 张"
+        },
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 10,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 5,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 4,
+      "complete": true
+    },
+    {
+      "playerId": "hltv-23402",
+      "nickname": "cobrazera",
+      "team": "The MongolZ",
+      "rank": 20,
+      "firstObservedYear": 2025,
+      "lastObservedYear": 2026,
+      "years": [
+        {
+          "year": 2025,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 1,
+          "status": "1 张"
+        },
+        {
+          "year": 2026,
+          "photos": 1,
+          "targetMinimum": 1,
+          "targetPreferred": 2,
+          "sourceObserved": true,
+          "checkedCandidates": 3,
+          "status": "1 张"
+        }
+      ],
+      "coveredYears": 2,
+      "complete": true
+    }
+  ]
+}

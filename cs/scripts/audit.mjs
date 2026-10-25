@@ -2,6 +2,7 @@ import fs from "node:fs";
 import assert from "node:assert/strict";
 import crypto from "node:crypto";
 import sharp from "sharp";
+import { top20Coverage } from "./top20-coverage.mjs";
 const d = JSON.parse(fs.readFileSync("src/data/catalogue.json", "utf8"));
 const failures = [],
   warnings = [];
@@ -60,6 +61,11 @@ for (const ph of d.photos) {
     "年龄使用不可靠日期 " + ph.id,
   );
   check(ph.year === null || ph.year <= 2026, "未来拍摄年份 " + ph.id);
+  if (ph.ageRange) {
+    const birthYear = Number(byId.get(ph.playerId)?.birthDate?.slice(0,4));
+    check(ph.ageRange[0] === ph.year - birthYear - 1 && ph.ageRange[1] === ph.year - birthYear, "年龄区间计算错误 " + ph.id);
+    check(ph.age === null && ph.datePrecision === "year" && !!ph.periodEvidence, "年龄区间缺少年份依据 " + ph.id);
+  }
   if (ph.age !== null) {
     const b = new Date(byId.get(ph.playerId).birthDate),
       p = new Date(ph.capturedAt);
@@ -153,7 +159,8 @@ const report = {
   passed: failures.length === 0,
   checkScope:
     "Structural data integrity; not a declaration that all photo coverage targets are met.",
-  photoCoverageTargetMet: d.photos.length >= 300,
+  photoCoverageTargetMet: top20Coverage(d, JSON.parse(fs.readFileSync(fs.existsSync("research/top20-gallery-indices.json") ? "research/top20-gallery-indices.json" : "research/top20-year-sources.json"))).targetMet,
+  basicPortraitCountTargetMet: d.photos.length >= 300,
   statistics: {
     players: d.players.length,
     teams: d.teams.length,

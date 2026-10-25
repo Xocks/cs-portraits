@@ -38,7 +38,7 @@ export function DataPanel({
       <div className="page-heading">
         <div>
           <span className="eyebrow">HONEST DATA. REAL PEOPLE.</span>
-          <h1>每一张脸，都有出处。</h1>
+          <h1>资料与照片来源</h1>
           <p>
             {data.players.length}{" "}
             位选手身份均已核对。照片年份与人物身份分别记录。
@@ -100,7 +100,7 @@ export function DataPanel({
           <p>
             {data.album.length} 张完整赛事照片均标注年份，包含{" "}
             {data.album.filter((p) => p.kind === "group").length}{" "}
-            张合照与队友画面。档案头像未公开拍摄日期时明确标注，不把采集日期当作拍摄年份；只有精确拍摄日可靠时计算年龄。
+            张合照与队友画面。档案头像未公开拍摄日期时明确标注，不把采集日期当作拍摄年份；精确日期用于计算年龄；仅有赛事年份时显示年龄范围，只有整个范围落在同一年龄段时才分类。
           </p>
         </article>
         <article className="info-panel">

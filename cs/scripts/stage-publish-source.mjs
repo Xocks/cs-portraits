@@ -15,5 +15,10 @@ for(const name of ['hltv-priority-players.json','hltv-priority-photo-candidates.
 paths.push('cs/docs/本轮照片完善-2026-10-23.md','cs/docs/图库来源研究-2026-10-22.md','cs/research/photo-library-research/sources.json');
 for(const name of ['seed-players.json','seed-teams.json','profiles.json','roster-checks.json','processed-photos.json','photo-review.json','hltv-photo-sources.json','hltv-approved-photos.json','hltv-gallery-approved-photos.json','hltv-gallery-review.json','hltv-crop-rejections.json','hltv-gallery-crop-rejections.json'])paths.push('cs/research/'+name);
 for(const name of ['在线版进展.md','online-release.json','交付与覆盖报告.md','使用说明.md','国内免费部署.md','GitHub免费部署研究.md','HLTV照片来源与授权记录.md','照片署名与许可.md','选手清单.csv','照片清单.csv','缺图选手.md','缺图选手.json','data-audit.json','playwright-online-results.json','unit-results.xml'])paths.push('cs/docs/'+name);
-const entries=paths.map(p=>({path:p,mode:'100644',type:'blob',content:fs.readFileSync(p,'utf8')}));
+for(const name of ['serve-photo-review.mjs','apply-photo-quality.mjs','collect-top20-hltv.mjs','scan-top20-hltv.mjs','review-top20-photos.mjs','process-top20-photos.mjs','reframe-portraits.mjs','photo-periods.mjs','top20-coverage.mjs','package-atlas-assets.mjs','package-current-assets.mjs'])paths.push('cs/scripts/'+name);
+for(const name of ['index.html','review.js','review.css'])paths.push('cs/scripts/photo-review/'+name);
+for(const name of ['top20-approved-portraits.json','top20-year-sources.json','top20-photo-review.json','reframed-photos.json'])paths.push('cs/research/'+name);
+for(const name of ['Top20照片补充进展.md','Top20逐年照片覆盖.csv','top20-photo-coverage.json','照片质量审核器使用说明.md','deployment-verification.json'])paths.push('cs/docs/'+name);
+paths.push('照片质量审核.command');
+const entries=paths.map(p=>({path:p,mode:p.endsWith('.command')?'100755':'100644',type:'blob',content:fs.readFileSync(p,'utf8')}));
 process.stdout.write(JSON.stringify(entries));

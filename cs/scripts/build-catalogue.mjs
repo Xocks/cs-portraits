@@ -1,4 +1,5 @@
 import fs from "node:fs";
+import { classifyEventYear } from "./photo-periods.mjs";
 const read = (p) => JSON.parse(fs.readFileSync(p, "utf8"));
 const seed = read("research/seed-players.json");
 const profiles = new Map(
@@ -197,6 +198,20 @@ if (fs.existsSync("research/hltv-gallery-approved-photos.json"))
   photos.push(...read("research/hltv-gallery-approved-photos.json"));
 if (fs.existsSync("research/hltv-priority-approved-portraits.json"))
   photos.push(...read("research/hltv-priority-approved-portraits.json"));
+if (fs.existsSync("research/top20-approved-portraits.json"))
+  photos.push(...read("research/top20-approved-portraits.json"));
+if (fs.existsSync("research/reframed-photos.json")) {
+  const framing = new Map(read("research/reframed-photos.json").map(ph => [ph.id, ph]));
+  for (const ph of photos) if (framing.has(ph.id)) Object.assign(ph, framing.get(ph.id));
+}
+// A known event year gives an age interval, never a fabricated capture day.
+// Assign an age group only when both ends of that interval fall in the same group.
+for (const ph of photos) {
+  const birth = byId.get(ph.playerId)?.birthDate;
+  if (ph.age !== null || !ph.year || ph.sourcePlatform !== "HLTV" || !ph.sourceUrl.includes("/gallery/view/")) continue;
+  const classification = classifyEventYear(ph.year, birth);
+  if (classification) Object.assign(ph, classification);
+}
 const editorialPrimaries = new Set(fs.existsSync('research/hltv-priority-review.json')
   ? read('research/hltv-priority-review.json').primaryPortraits?.map(id=>'hltv-gallery-'+id) || [] : []);
 for (const p of players) {
@@ -220,15 +235,15 @@ for (const p of players) {
 // First candidate in the latest verified period is the initial card representative; users can change it.
 const notes = [
   `收录 ${players.length} 位独立选手、${teams.length} 支快照队伍；Top 20 的 100 个位置均以 2026-10-19 排名和 2026-10-21 队伍资料页交叉核对。`,
-  `当前可靠照片 ${photos.length} 张，覆盖 ${players.filter((p) => p.photoIds.length).length} 位；${photos.length < 300 ? "尚未达到 300–500 张数量目标" : "已达到 300–500 张数量目标"}。跨年龄时期的素材覆盖仍待补充，不用错图或重复照片充数。`,
+  `当前个人照片 ${photos.length} 张，覆盖 ${players.filter((p) => p.photoIds.length).length} 位选手。Top20 逐年覆盖以专门的缺口报告为准，不把头像覆盖当作历年素材齐全。`,
   `照片来源包括 HLTV 个人档案与 Wikimedia Commons。HLTV 素材按项目所有者的使用权限声明纳入，保留版权，未声称取得平台官方授权。Commons 照片保留各自公开许可。`,
-  `HLTV 档案核对日期不是拍摄日期，无法核实拍摄日期的头像不推算年龄。某些采访截图仅有发表年份，此类素材同样单列“年份与头像”，不推算年龄。`,
+  `HLTV 档案核对日期不是拍摄日期，无法核实拍摄日期的头像不推算年龄。某些采访截图仅有发表年份，此类素材按已知年份浏览，年龄未核实的单独标注。`,
   `“现役阵容快照”表示属于本次收录的排名阵容；“历史补充档案”包含退役、转型及不在所收录阵容中的选手，不对其当前职业状态作推断。`,
   `照片身份依据 Commons 专属人物分类 / 文件标题与 HLTV 档案映射，并逐张检查可见主体。人脸检测仅用于裁切，不能证明身份。`,
   `3DMAX 的原核心选手目前以 Envy 名义出现在排名快照中；Eternal Fire 同时保留当前阵容与原土耳其核心人物，不沿用旧队籍。`,
 ];
 const catalogue = {
-  version: "1.3.0-web",
+  version: "1.4.0-web",
   snapshotDate: "2026-10-19",
   collectedAt: "2026-10-21",
   rankingSource: "https://www.hltv.org/ranking/teams/2026/october/19",

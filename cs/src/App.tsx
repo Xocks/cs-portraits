@@ -235,7 +235,7 @@ export default function App() {
   }
   function exportData(type: "json" | "csv") {
     download(
-      `准星之外-CS-${new Date().toLocaleDateString("sv-SE")}.${type}`,
+      `CS选手图鉴-${new Date().toLocaleDateString("sv-SE")}.${type}`,
       type === "json"
         ? JSON.stringify(
             {
@@ -382,7 +382,7 @@ export default function App() {
     return (
       <div className="app-loading">
         <Focus size={40} />
-        <span>准星之外 CS PORTRAITS</span>
+        <span>CS 选手图鉴</span>
         <LoaderCircle className="spin" size={18} />
       </div>
     );
@@ -397,13 +397,13 @@ export default function App() {
                 setPage("collection");
                 window.scrollTo({ top: 0, behavior: "smooth" });
               }}
-              aria-label="准星之外首页"
+              aria-label="CS 选手图鉴首页"
             >
               <span className="brand-mark">
                 <Focus size={25} strokeWidth={2.4} />
               </span>
               <strong>
-                准星之外<span>CS PORTRAITS</span>
+                CS 选手图鉴<span>PLAYER ATLAS</span>
               </strong>
             </button>
             <span className="edition">
@@ -535,32 +535,25 @@ export default function App() {
                       >
                         <span>THE FACE BEHIND THE GAME</span>
                         <i />
-                        CS2 人像图鉴 · VOL. 01
+                        选手 · 年份 · 个人评分
                       </motion.div>
                       <motion.h1
                         initial={{ opacity: 0, y: 16 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ delay: 0.12, duration: 0.6 }}
                       >
-                        赛场之外，
+                        名字之外，
                         <br />
-                        另一种
-                        <span className="highlight-word">
-                          高光
-                          <svg viewBox="0 0 180 12" preserveAspectRatio="none">
-                            <path d="M3 8 Q75 -1 176 6" />
-                          </svg>
-                        </span>
-                        。
+                        <span className="highlight-word">看看本人。</span>
                       </motion.h1>
                       <motion.p
                         initial={{ opacity: 0, y: 12 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ delay: 0.2, duration: 0.5 }}
                       >
-                        从初登赛场，到成为传奇。
+                        按年份查看照片，
                         <br />
-                        沿着真实的时间，收藏你眼中的心动瞬间。
+                        选择代表照，记录你的评分。
                       </motion.p>
                       <motion.div
                         className="hero-actions"
@@ -572,20 +565,20 @@ export default function App() {
                           className="primary-button"
                           onClick={() => start()}
                         >
-                          开始我的评分 <ArrowUpRight size={17} />
+                          浏览选手 <ArrowUpRight size={17} />
                         </button>
                         <button
                           className="hero-blind"
                           onClick={() => start(true)}
                         >
                           <EyeOff size={16} />
-                          试试盲评 <ArrowRight size={14} />
+                          匿名评分 <ArrowRight size={14} />
                         </button>
                       </motion.div>
                       <div className="hero-footnote">
                         <ShieldCheck size={13} />
-                        真实人像，清晰出处 <span />
-                        你的审美，你来定义
+                        照片附来源与年份 <span />
+                        评分仅保存在你的浏览器
                       </div>
                     </div>
                     <div className="hero-art" aria-label="精选职业选手人像">
@@ -651,7 +644,7 @@ export default function App() {
                         transition={{ delay: 0.6, type: "spring" }}
                       >
                         <Sparkles size={15} />
-                        高光不止一帧
+                        历年选手照片
                       </motion.span>
                       <span className="hero-coordinate bottom">
                         100% REAL FACES <span>100% YOUR TASTE</span>
@@ -681,7 +674,7 @@ export default function App() {
                     <div>
                       <strong>{uniquePhotos}</strong>
                       <span>
-                        可靠照片
+                        不同原片
                         <span className="stats-detail">
                           含 {data.album.length} 张完整赛事照
                         </span>
@@ -712,7 +705,7 @@ export default function App() {
                           <span className="tiny-squares">▦</span>THE COLLECTION
                         </div>
                         <h2>
-                          看见每一个他<span>{filtered.length}</span>
+                          全部选手<span>{filtered.length}</span>
                         </h2>
                       </div>
                       <div className="rating-mode-control">
@@ -793,7 +786,7 @@ export default function App() {
                             })
                           }
                         >
-                          中国力量
+                          中国选手
                           <span className="china-dot" />
                         </button>
                       </div>
@@ -906,7 +899,7 @@ export default function App() {
                               sort: "shuffle",
                               shuffleSeed: Math.floor(Math.random() * 1e8),
                             });
-                            setToast("已打乱顺序，发现另一种心动");
+                            setToast("已随机排列选手");
                           }}
                         >
                           <Shuffle size={15} />
@@ -938,7 +931,7 @@ export default function App() {
                               filter({ photoOnly: e.target.checked })
                             }
                           />
-                          仅显示有可靠照片的选手
+                          仅显示有照片的选手
                         </label>
                         <label>
                           <input
@@ -955,7 +948,7 @@ export default function App() {
                         {s.blind
                           ? "盲评已开启 · 姓名与队伍已隐藏"
                           : s.mode === "overall"
-                            ? "浏览不同年龄，再给出你的整体印象"
+                            ? "查看照片，为选手评分"
                             : "卡片评分对应当前代表照所在时期"}
                       </span>
                     </div>
@@ -991,7 +984,7 @@ export default function App() {
                         ) : (
                           <div className="end-of-collection">
                             <span />
-                            每个人，都有属于自己的高光。
+                            已显示当前筛选结果
                             <span />
                           </div>
                         )}
@@ -1042,8 +1035,8 @@ export default function App() {
         <footer className="site-footer">
           <div className="footer-brand">
             <Focus size={19} />
-            <strong>准星之外 CS PORTRAITS</strong>
-            <span>每一帧，都是真实的他。</span>
+            <strong>CS 选手图鉴</strong>
+            <span>选手照片与个人评分</span>
           </div>
           <div>
             <button onClick={() => setPage("data")}>数据与照片来源</button>
@@ -1065,7 +1058,7 @@ export default function App() {
           <div className="progress-content">
             <div>
               <span>
-                {s.mode === "overall" ? "你的心动收集进度" : "你的时期评分进度"}
+                {s.mode === "overall" ? "已评分选手" : "已评分时期"}
               </span>
               <strong>
                 {ratingCount}
