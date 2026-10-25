@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:09:19.262Z",
+  "generatedAt": "2026-10-25T10:20:17.940Z",
   "version": "1.4.0-web",
   "snapshotDate": "2026-10-19",
   "players": 230,
@@ -22,5 +22,5 @@
   "offlineDelivery": "paused",
   "repository": "https://github.com/Xocks/cs-portraits",
   "targetSite": "https://xocks.github.io/cs-portraits/",
-  "deploymentVerified": false
+  "deploymentVerified": true
 }

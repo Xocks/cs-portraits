@@ -1,6 +1,27 @@
 {
-  "checkedAt": "2026-10-23T12:25:08.686Z",
-  "checked": 1158,
-  "total": 1158,
-  "failed": []
+  "checked": 2042,
+  "total": 2042,
+  "failed": [],
+  "complete": true,
+  "metadata": [
+    {
+      "name": "photos",
+      "status": 200,
+      "count": 797,
+      "sha256": "2aae1543a86e6c1ce1e71164b67072005f3391206da11d76021dc1e7502a9823"
+    },
+    {
+      "name": "album",
+      "status": 200,
+      "count": 224,
+      "sha256": "5949461f7dd940d09de569bda16b18fc3a0f93005d8e4980df91539e0950b8a7"
+    },
+    {
+      "name": "players",
+      "status": 200,
+      "count": 230,
+      "sha256": "75d846f4de279cc27c9af78566d48b7c82bfc905524c3c9dd62c4a0db7ae734a"
+    }
+  ],
+  "checkedAt": "2026-10-25T10:19:22.604Z"
 }

@@ -1,53 +1,60 @@
 {
   "site": "https://xocks.github.io/cs-portraits/",
-  "verifiedCommit": "4971d19ffd4a6127a9b1a017fe37bfa65819160b",
-  "workflowRun": "39950914727",
+  "version": "1.4.0-web",
+  "brand": "CS 选手图鉴",
+  "tagline": "名字之外，看看本人。",
+  "verifiedCommit": "81463b7f0ad6e9fb42df954c118273d7ee2d58db",
+  "workflowRun": "40184030668",
   "workflowStatus": "completed successfully",
-  "checkedAt": "2026-10-23T12:25:08.686Z",
+  "checkedAt": "2026-10-25T10:19:22.604Z",
   "players": 230,
-  "photos": 355,
+  "photos": 797,
   "album": 224,
-  "groups": 51,
-  "uniqueSourcePhotos": 454,
-  "assets": 1158,
+  "uniqueSourcePhotos": 896,
+  "newTop20Photographs": 442,
+  "assets": 2042,
   "failed": [],
   "desktop": {
-    "title": "BLAST Premier World Final 2022 Day 3",
-    "imageWidth": 1600,
-    "year": "2022  2 / 2",
-    "arrowChanged": true
+    "yearButtons": [
+      "20171 张",
+      "20201 张",
+      "20222 张",
+      "20232 张",
+      "年份未知1 张"
+    ],
+    "objectFit": "contain",
+    "photoWidth": 529,
+    "title": "CS 选手图鉴 · 名字之外，看看本人。"
   },
+  "periodLabels": "19 岁及以下201720–23 岁2022 / 2023年龄未核实2020",
   "mobile": {
     "viewport": 390,
-    "documentWidth": 390,
-    "imageWidth": 1600
-  },
-  "chinesePlayer": {
-    "nickname": "Moseyuh",
-    "years": [
-      "2023赛事年份已记录",
-      "2025赛事年份已记录",
-      "2026赛事年份已记录"
-    ]
+    "documentWidth": 390
   },
   "liveWebsiteVerified": true,
-  "photoCatalogueSha256": "eddfb72065a9884fb7c4ead78bc74e02cf83580912b865cb4aee04112a88be24",
+  "photoCatalogueSha256": "c88d1f67e9cdd5632b2da8e8ca080360d6b4686b54a95e1efe9356d9b10c7126",
   "albumCatalogueSha256": "a39aa172c9b417fc853b3f0a1429b6a1f681ef387a959a9db0da192b202d7f20",
-  "playersCatalogueSha256": "ec2dbcddb52b2ee41012f260e724d57f6e8dacc51a4943da2fec35bb34ce0eed",
+  "playersCatalogueSha256": "45dd59a80adc0f335fe302f5c3560d4bcf16ad8c5f24ceb2a8ddcec06651b15f",
+  "liveResponseSha256": {
+    "photos": "2aae1543a86e6c1ce1e71164b67072005f3391206da11d76021dc1e7502a9823",
+    "album": "5949461f7dd940d09de569bda16b18fc3a0f93005d8e4980df91539e0950b8a7",
+    "players": "75d846f4de279cc27c9af78566d48b7c82bfc905524c3c9dd62c4a0db7ae734a"
+  },
   "catalogueMatchesLive": true,
   "localBrowserTests": {
-    "passed": 10,
+    "passed": 11,
     "failed": 0
   },
   "unitTests": {
-    "passed": 7,
+    "passed": 10,
     "failed": 0
   },
-  "HLTVNewAcquisition": "77 reviewed original photographs and 44 portrait crops published",
-  "domesticNetworkVerification": "No independent mainland carrier tests",
-  "liveResponseSha256": {
-    "photos": "a11830c53a80ed417f48119a30f92f29f1c6719b06558cd32835a7cefa5dce36",
-    "album": "5949461f7dd940d09de569bda16b18fc3a0f93005d8e4980df91539e0950b8a7",
-    "players": "4f1bba9763d67c1c2bb96afddc331a53eb4abe87002e316612a36d7d0ddfdfa2"
-  }
+  "top20Coverage": {
+    "playersWithDatedPhotos": 100,
+    "coveredPlayerYears": 493,
+    "targetPlayerYears": 592,
+    "missingPlayerYears": 99,
+    "targetMet": false
+  },
+  "nextReviewBatch": 57
 }
